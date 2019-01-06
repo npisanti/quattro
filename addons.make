@@ -1,0 +1,12 @@
+ofxGui
+ofxOsc
+ofxMidi
+ofxOpenCv
+ofxCv
+ofxKinect
+ofxKinectProjectorToolkit
+ofxSIMDFloats
+ofxPDSP
+np-junkrepo
+ofxSvg
+ofxHomography
