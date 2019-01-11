@@ -1,1 +1,4 @@
-test of np::ChristoffelSeq for sequencing using Christoffel words
+artefatto::quattro
+
+Nicola Pisanti, GPLv3 License 2017.
+
